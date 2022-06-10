@@ -23,5 +23,3 @@ while(sum < 50){
         userNumbersArray.push(userNumber);
     }
 }
-
-console.log(userNumbersArray);
